@@ -24,7 +24,7 @@ description: "hanqyu's blog"
 url: "https://hanqyu.github.io/"
 baseurl: # the subpath of your site, e.g. "/blog"
 repository: "hanqyu/hanqyu.github.io"
-teaser: # path of fallback teaser image, e.g. "/assets/images/500x300.png" # TODO 기본 썸네일
+teaser: "assets/images/thumbnail.jpg"
 logo: "assets/images/avatar_88x88.jpg"
 masthead_title: # overrides the website title displayed in the masthead, use " " for no title
 breadcrumbs: true # true, false (default)
