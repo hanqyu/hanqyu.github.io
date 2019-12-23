@@ -6,8 +6,9 @@ read_time: true
 comments: true
 share: true
 related: true
-categories: [blog]
+categories: [Blog]
 tags: [끄적임]
+permalink: /:categories/:title/
 header:
   teaser: assets/images/teasers/introduction.jpg
 ---
