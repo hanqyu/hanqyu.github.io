@@ -1,0 +1,14 @@
+Kyu-joo Han:
+  name        : "Kyu-joo Han"
+  bio         : "백엔드를 공부하고 있습니다."
+  avatar      : "/assets/images/avatar.jpg"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:peakjnut37@yonsei.ac.kr"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/hanqyu"
+    - label: "Linkedin"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/kyu-joo-han-3b83a0169/"
