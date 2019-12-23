@@ -23,7 +23,7 @@ name: "한규주"
 description: "hanqyu's blog"
 url: "https://hanqyu.github.io/"
 baseurl: # the subpath of your site, e.g. "/blog"
-repository: "hanqyu/hanqyu.gitgub.io"
+repository: "hanqyu/hanqyu.github.io"
 teaser: # path of fallback teaser image, e.g. "/assets/images/500x300.png" # TODO 기본 썸네일
 logo: "assets/images/avatar_88x88.jpg"
 masthead_title: # overrides the website title displayed in the masthead, use " " for no title
@@ -219,8 +219,8 @@ whitelist:
 
 # Archives
 #  Type
-#  - GitHub Pages compatible archive pages built with Liquid ~> type: liquid (default)
-#  - Jekyll Archives plugin archive pages ~> type: jekyll-archives
+#  - GitHub Pages compatible archive _pages built with Liquid ~> type: liquid (default)
+#  - Jekyll Archives plugin archive _pages ~> type: jekyll-archives
 #  Path (examples)
 #  - Archive page should exist at path when using Liquid method or you can
 #    expect broken links (especially with breadcrumbs enabled)
