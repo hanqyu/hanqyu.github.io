@@ -6,6 +6,8 @@ read_time: true
 comments: true
 share: true
 related: true
+categories: [Blog]
+tags: [회고]
 excerpt: Django, RN-iOS, opencv 등 약 5개의 프로젝트를 되돌아보며
 header:
     teaser: assets/images/teasers/retrospective-2019.jpg
