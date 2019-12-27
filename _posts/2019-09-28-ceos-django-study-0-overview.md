@@ -1,5 +1,5 @@
 ---
-title: "#0 - Django로 2달 만에 실전 API 서버 만들기"
+title: "Django로 2달 만에 실전 API 서버 만들기 - #0 개요"
 layout: single
 author_profile: true
 read_time: true
