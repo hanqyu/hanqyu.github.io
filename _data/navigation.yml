@@ -6,3 +6,5 @@ main:
     url: /categories/
   - title: "Blogs"
     url: /categories/blogs/
+  - title: "Django"
+    url: /categories/django/
