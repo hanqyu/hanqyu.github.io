@@ -6,3 +6,6 @@
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
+
+
+// TODO page__taxonomy-item 수정 (태그 스타일 변경할 예정)

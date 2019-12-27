@@ -1,5 +1,5 @@
 ---
-title: "Django로 2달 만에 실전 API 서버 만들기 - #0 개요"
+title: "[Django] API 서버 - #0 개요"
 layout: single
 author_profile: true
 read_time: true
@@ -8,7 +8,7 @@ share: true
 related: true
 categories: [Django]
 tags: [스터디, Django, Django-rest-framework, AWS-EC2, AWS-RDS, Nginx, uWSGI, Fabric, AWS-CloudFront, 백엔드, API, Restful, ubuntu]
-excerpt: 실제 프로덕션 레벨의 API 서버 만들기 0편 
+excerpt: Django로 2달 만에 실전 API 서버 만들기 
 header:
  teaser: assets/images/teasers/django-808x367.png
 ---
