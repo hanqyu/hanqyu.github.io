@@ -1,6 +1,7 @@
 ---
-title: "[Django] API 서버 - #0 개요"
+title: "API 서버 스터디  # 0 개요"
 layout: single
+classes: wide
 author_profile: true
 read_time: true
 comments: true

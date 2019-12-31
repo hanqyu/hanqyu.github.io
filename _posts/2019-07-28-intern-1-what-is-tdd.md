@@ -1,6 +1,7 @@
 ---
 title: 개발인턴경험기 - 1. TDD의 중요성은 알겠는데, 어떻게 하는거지?
 layout: single
+classes: wide
 author_profile: true
 read_time: true
 comments: true

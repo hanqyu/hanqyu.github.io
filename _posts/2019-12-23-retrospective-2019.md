@@ -1,6 +1,7 @@
 ---
 title: 2019년 회고
 layout: single
+classes: wide
 author_profile: true
 read_time: true
 comments: true
