@@ -8,3 +8,7 @@ main:
     url: /categories/blogs/
   - title: "Django"
     url: /categories/django/
+  - title: "TIL"
+    url: /categories/til/
+  - title: "Rails"
+    url: /categories/rails/
