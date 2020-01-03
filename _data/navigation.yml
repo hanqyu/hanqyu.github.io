@@ -12,3 +12,14 @@ main:
     url: /categories/til/
   - title: "Rails"
     url: /categories/rails/
+django-study:
+  - title: "#0 개요"
+    children:
+      - title: "0 스터디 계획"
+        url: /django/ceos-django-study-0-overview/
+  - title: "#1 TDD & DRF"
+    children:
+      - title: "1-1 TDD란 무엇일까"
+        url: /django/ceos-django-study-1-1-test-driven-development/
+      - title: "1-2 REST API에 대해"
+        url: /django/ceos-django-study-1-2-rest-api/
