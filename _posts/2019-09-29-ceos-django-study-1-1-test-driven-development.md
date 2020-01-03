@@ -7,6 +7,8 @@ read_time: true
 comments: true
 share: true
 related: true
+sidebar:
+ nav: "django-study"
 categories: [Django]
 tags: [스터디, Django, Django-rest-framework, 백엔드, API, Restful, TDD]
 excerpt: Test Driven Development. 테스트 주도 개발이란 무엇일까.
@@ -14,7 +16,8 @@ header:
  teaser: assets/images/teasers/django-808x367.png
 ---
 
-⏪ 이전 포스트 확인하기: [API 서버 스터디 # 0 개요](/django/ceos-django-study-0-overview/) 
+⏪ 이전 포스트: [API 서버 스터디 # 0 개요](/django/ceos-django-study-0-overview/) 
+⏩ 다음 포스트: [API 서버 스터디 # 1-1 TDD란 무엇일까](/django/ceos-django-study-1-1-test-driven-development/) 
 
 -----
 
