@@ -28,7 +28,7 @@ teaser: "assets/images/thumbnail.jpg"
 logo: ""
 masthead_title: # overrides the website title displayed in the masthead, use " " for no title
 breadcrumbs: true # true, false (default)
-words_per_minute: 200
+words_per_minute: 100
 comments:
   provider: "disqus"
   disqus:
