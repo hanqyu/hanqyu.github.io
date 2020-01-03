@@ -1,11 +1,15 @@
 ---
 title: "API 서버 스터디  # 1-2 REST API에 대해"
+sidebar:
+ nav: "django-study"
 categories: [Django]
 tags: [스터디, Django, Django-rest-framework, 백엔드, API, Restful, TDD]
 excerpt: 개인적으로 REST의 뜻을 해석하는 것보다 어떤 것이 RESTful하고 어떤 것이 RESTful하지 않은지를 보는게 이해가 더 빨랐다.
 header:
  teaser: assets/images/teasers/django-808x367.png
+ 
 ---
+
 ⏪ 이전 포스트 확인하기: [API 서버 스터디  # 1-1 TDD란 무엇일까](/django/ceos-django-study-1-1-test-driven-development/) 
 
 -----
