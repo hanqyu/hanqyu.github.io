@@ -7,6 +7,8 @@ read_time: true
 comments: true
 share: true
 related: true
+sidebar:
+ nav: "django-study"
 categories: [Django]
 tags: [스터디, Django, Django-rest-framework, AWS-EC2, AWS-RDS, Nginx, uWSGI, Fabric, AWS-CloudFront, 백엔드, API, Restful, ubuntu]
 excerpt: Django로 2달 만에 실전 API 서버 만들기 
