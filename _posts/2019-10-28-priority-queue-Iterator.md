@@ -10,38 +10,39 @@ excerpt: "java priority queue 구현"
 [https://programmers.co.kr/learn/courses/30/lessons/42626?language=java](https://programmers.co.kr/learn/courses/30/lessons/42626?language=java)
 
 ### 내 코드
-
-    class Solution {
-        public int solution(int[] scoville, int K) {
-            int answer = 0;
-            PriorityQueue<Integer> pq = new PriorityQueue<Integer>();
-            for (int s: scoville)
-                pq.add(s);
-            
-            int last = 0;
-            Iterator<Integer> itr = pq.iterator();
-            while(itr.hasNext()) {
-                if (pq.peek() >= K)
-                    return answer;
-                if (pq.size() == 1) {
-                    last = pq.poll();
-                    break;
-                }
-                    
-                int min = pq.poll();
-                int min2 = pq.poll();
-    
-                pq.add(min + min2*2);
-                answer++;
-            }
-            
-            if (last >= K) {
+```java
+class Solution {
+    public int solution(int[] scoville, int K) {
+        int answer = 0;
+        PriorityQueue<Integer> pq = new PriorityQueue<Integer>();
+        for (int s: scoville)
+            pq.add(s);
+        
+        int last = 0;
+        Iterator<Integer> itr = pq.iterator();
+        while(itr.hasNext()) {
+            if (pq.peek() >= K)
                 return answer;
-            } else {
-                return -1;
+            if (pq.size() == 1) {
+                last = pq.poll();
+                break;
             }
+                
+            int min = pq.poll();
+            int min2 = pq.poll();
+
+            pq.add(min + min2*2);
+            answer++;
+        }
+        
+        if (last >= K) {
+            return answer;
+        } else {
+            return -1;
         }
     }
+}
+```
 
 # 배운 점
 
