@@ -2,7 +2,7 @@
 title: PriorityQueue와 Iterator
 categories: [TIL]
 tags: [코딩테스트, 알고리즘]
-excerpt: ""
+excerpt: "java priority queue 구현"
 ---
 
 ### 출처
