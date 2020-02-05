@@ -1,6 +1,6 @@
 ---
-title: "Django 3.0 - cannot import six from django.utils"
-categories: [TIL]
+title: "[Django 3.0] cannot import six from django.utils"
+categories: [TIL, Django]
 tags: [Django, dependencies, github, issues, drf, django-allauth, django-rest-framework, django-grappelli, django-celery-beat, django-admin-tools]
 excerpt: "django 3.0 디펜던시 오류 해결하기"
 ---
