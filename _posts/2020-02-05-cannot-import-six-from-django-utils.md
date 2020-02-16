@@ -1,5 +1,5 @@
 ---
-title: cannot import six from django.utils
+title: 에러) cannot import six from django.utils
 categories: [TIL]
 tags: [Django, dependencies]
 excerpt: "장고 3.0 의존성 문제 해결하기"
