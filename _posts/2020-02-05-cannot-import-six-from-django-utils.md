@@ -1,8 +1,8 @@
 ---
-title: 에러) cannot import six from django.utils
-categories: [TIL]
-tags: [Django, dependencies]
-excerpt: "장고 3.0 의존성 문제 해결하기"
+title: "[Django 3.0] cannot import six from django.utils"
+categories: [TIL, Django]
+tags: [Django, dependencies, github, issues, drf, django-allauth, django-rest-framework, django-grappelli, django-celery-beat, django-admin-tools]
+excerpt: "django 3.0 디펜던시 오류 해결하기"
 ---
 # 맥락
 
@@ -22,13 +22,13 @@ requirements.txt 를 직접 4.0으로 수정하거나
 
 django-timezone-file는 django 3.0에 대응한 버전 4.0을 내놓았지만 다른 디펜던시들이 아직 그 버전을 따라가지 못하는 것임.
 
-버전업을 강제로 한 이상 어떤 에러가 날지는 모릅니다.
+> ❗️버전업을 강제로 한 이상 어떤 에러가 날지는 모릅니다.
 
-일부 디펜던시 pip check에서 에러가 날 수 있는데, pip check error를 무시해도 되는 경우에 사용하는 임시방편이다. 
+일부 디펜던시 pip check에서 에러가 날 수 있는데, pip check error를 무시해도 되는 경우에 사용하는 임시방편입니다. 
 
 # Django 3.0 관련 Issues
 
-**Github Issues**에서 django 3.0 대응 상황을 확인할 수 있으니 참고해보자
+> 💡**Github Issues**에서 django 3.0 대응 상황을 확인할 수 있으니 참고해보자
 
 **django-rest-framework**
 
